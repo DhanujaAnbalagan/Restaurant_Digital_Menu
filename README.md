@@ -9,8 +9,7 @@ Category	Description
 📱 QR Digital Menu	Customers scan and view menu instantly — no paper menu needed
 🌐 Multi-Language UI	English 🇬🇧 + Tamil 🇮🇳 with voice greeting toggle
 🖼️ Dish Image Gallery	Every item displayed with fresh and appealing food photos
-🍽️ Category Filters	Browse menu by: Breakfast, Meals, Snacks, Juice, Dinner, Waffle Cart
-🔍 Search System	Instant dish searching for faster ordering
+🍽️ Category Filters	Browse menu by: Breakfast, Meals, Snacks, Juice, Dinner, 🔍 Search System	Instant dish searching for faster ordering
 ❤️ Favorites System	Customers can save favourite dishes and view them later
 ⭐ Feedback System	Star rating + Emoji reactions + Comment box
 📍 Restaurant Info	Google Map integration, address, contact, business hours
