@@ -1,73 +1,64 @@
-# Welcome to your Lovable project
+🌿 Om Sri Saravanas Veg Restaurant — Digital Menu & Ordering Website
 
-## Project info
+A modern, mobile-first digital menu and ordering experience built for Om Sri Saravanas Hotel, Harur (Dharmapuri), Tamil Nadu. Designed to help customers browse the menu, view dish images, and order directly via WhatsApp — all by scanning a QR code at their table.
 
-**URL**: https://lovable.dev/projects/9d7b9b75-56c6-42d8-a374-92628abfa0d1
+This project is a real-world software solution built to support a family-run vegetarian restaurant in going digital and delivering a hygienic & seamless dining experience.
 
-## How can I edit this code?
+✨ Features
+Category	Description
+📱 QR Digital Menu	Customers scan and view menu instantly — no paper menu needed
+🌐 Multi-Language UI	English 🇬🇧 + Tamil 🇮🇳 with voice greeting toggle
+🖼️ Dish Image Gallery	Every item displayed with fresh and appealing food photos
+🍽️ Category Filters	Browse menu by: Breakfast, Meals, Snacks, Juice, Dinner, Waffle Cart
+🔍 Search System	Instant dish searching for faster ordering
+❤️ Favorites System	Customers can save favourite dishes and view them later
+⭐ Feedback System	Star rating + Emoji reactions + Comment box
+📍 Restaurant Info	Google Map integration, address, contact, business hours
+📞 WhatsApp Ordering	One-tap ordering → Pre-filled message with dish name
+⚡ Fast & Responsive	Mobile-first UI clean animations and fast loading
+🛠 Admin Ready	Structure supports adding/editing items via CMS backend
+🔧 Tech Stack
+Technology	Purpose
+React + TypeScript	Frontend UI
+Vite	Fast development & optimized build
+TailwindCSS	Modern responsive design
+React Router	Multi-page navigation
+Firebase (optional)	Menu & feedback data backend
+GitHub + Vercel	CI/CD deployment & hosting
+🔗 Live Website
 
-There are several ways of editing your application.
 
-**Use Lovable**
+📍 Restaurant Information
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/9d7b9b75-56c6-42d8-a374-92628abfa0d1) and start prompting.
+Om Sri Saravanas Hotel
+Opposite Panchayat Society
+Harur, Dharmapuri District — 636903
+📞 +91 94430 52290 / +91 86106 35010
+Pure Vegetarian • Family Restaurant • A/C Hall
 
-Changes made via Lovable will be committed automatically to this repo.
+🚀 Getting Started (Local Development)
 
-**Use your preferred IDE**
+git clone https://github.com/DhanujaAnbalagan/Restaurant_Digital_Menu.git
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+# Install Dependencies
+npm install
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Run Dev Server
 npm run dev
-```
 
-**Edit a file directly in GitHub**
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Open browser:
 
-**Use GitHub Codespaces**
+http://localhost:5173/
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+🛑 Future Enhancements
 
-## What technologies are used for this project?
+🔐 Admin Dashboard (menu updates with login)
 
-This project is built with:
+📦 Online Order Cart System
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+🧾 QR-based table identification
 
-## How can I deploy this project?
+🎯 Daily Specials & Offers
 
-Simply open [Lovable](https://lovable.dev/projects/9d7b9b75-56c6-42d8-a374-92628abfa0d1) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+⭐ Google Reviews Integration
