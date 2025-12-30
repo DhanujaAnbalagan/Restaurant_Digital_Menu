@@ -2,7 +2,7 @@
 
 A modern, mobile-first digital menu and ordering experience built for Om Sri Saravanas Hotel, Harur (Dharmapuri), Tamil Nadu. Designed to help customers browse the menu, view dish images, and order directly via WhatsApp — all by scanning a QR code at their table.
 
-This project is a real-world software solution built to support a family-run vegetarian restaurant in going digital and delivering a hygienic & seamless dining experience.
+This project is a real-world software solution built to support a family-run vegetarian restaurant in going digital and delivering a hygienic & seamless dining experience
 
 ✨ Features
 Category	Description
