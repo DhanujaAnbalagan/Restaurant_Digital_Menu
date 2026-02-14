@@ -42,3 +42,59 @@ This is a **real-world deployed software project** supporting a family-run veget
 
 ## 📁 Project Structure
 
+
+---
+
+## 🔗 Live Website
+
+[https://restaurant-digital-menu.vercel.app](https://restaurantdigitalmenu-rouge.vercel.app/)
+
+
+---
+
+## 📍 Restaurant Information
+
+**Om Sri Saravanas Hotel**  
+Opposite Panchayat Society  
+Harur, Dharmapuri District — 636903  
+
+📞 +91 94430 52290  
+📞 +91 86106 35010  
+
+Pure Vegetarian • Family Restaurant • A/C Hall
+
+---
+
+## 🚀 Getting Started
+
+Clone repository:
+
+git clone https://github.com/DhanujaAnbalagan/Restaurant_Digital_Menu.git
+
+Install dependencies :
+
+npm install
+
+Run deployment server :
+
+npm run dev
+
+
+---
+
+## 🛑 Future Enhancements
+
+- Admin dashboard for menu updates
+- Online ordering cart system
+- QR-based table identification
+- Daily specials & offers
+- Google Reviews integration
+
+---
+
+## Author
+Dhanuja Anbalagan
+
+
+
+
