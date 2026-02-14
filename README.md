@@ -42,6 +42,9 @@ This is a **real-world deployed software project** supporting a family-run veget
 
 ## 📁 Project Structure
 
+<img width="526" height="478" alt="image" src="https://github.com/user-attachments/assets/60ec5d24-2c51-4b97-8d4d-2d8f87f15184" />
+
+
 
 ---
 
